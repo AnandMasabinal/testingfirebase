@@ -1,0 +1,7 @@
+{
+  "name": "px1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
